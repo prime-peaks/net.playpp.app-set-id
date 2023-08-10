@@ -1,0 +1,14 @@
+{
+  "name": "net.playpp.app-set-id",
+  "displayName": "App Set ID",
+  "author": {
+    "name": "Prime Peaks"
+  },
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.176",
+    "com.unity.modules.androidjni": "1.0.0"
+  },
+  "description": "A wrapper library for Google Play App Set ID SDK."
+}
